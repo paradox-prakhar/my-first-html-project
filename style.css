@@ -1,0 +1,20 @@
+
+a{
+    text-decoration: none;
+    background-color: rgb(163, 198, 102);
+    color: rgb(0, 0, 0);
+    /* padding: 1%; */
+    
+}
+a:hover{
+    background-color: rgb(96, 175, 217);
+}
+ol
+{
+    color: rgb(35, 135, 5);
+}
+    .arrow{
+        border: rgb(233, 103, 10);
+        display: inline-block;
+        border-width: medium;
+    }
